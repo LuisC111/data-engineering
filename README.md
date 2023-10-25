@@ -12,15 +12,20 @@ You must rename the .env.example file to .env and change the value of the variab
 
 There are two ways to install the libraries needed to run the scripts.
 
-The first is to open the terminal and enter the following command:
+### The first is to open the terminal and enter the following command:
+
 pip install -r requirements.txt
 
-The second is to execute the following commands one by one:
+### The second is to execute the following commands one by one:
 
 pip install psycopg2-binary
+
 pip install pandas
+
 pip install python-dotenv
+
 pip install matplotlib
+
 pip install seaborn
 
 ## How to run the scripts? Open the terminal and run the following commands one by one to see the result of each script.
