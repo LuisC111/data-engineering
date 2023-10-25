@@ -8,7 +8,7 @@ For security reasons sending passwords in the code is not a good practice. So th
 
 ## How does the .env file work?
 
-You must rename the .env.example file to .env and change the value of the variables to the actual connection to the database. (The .env file with the values I sent to your email along with the link to the repository).
+You must rename the env.example file to .env and change the value of the variables to the actual connection to the database. (The .env file with the values I sent to your email along with the link to the repository).
 
 ## Requirements:
 
